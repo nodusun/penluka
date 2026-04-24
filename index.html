@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>ペンルカ — 今日読める、無料漫画キュレーション</title>
+<meta name="description" content="羽根ペンを持った読書家のペンギン「ペンルカ」が、今読むべき無料漫画を日々セレクト。スカッと・感動・恋愛・ホラー、今夜の一冊を。" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@500;700;900&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=Fraunces:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet" />
+
+<link rel="icon" type="image/png" href="assets/penluka.png" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+<!-- Background layers for parallax -->
+<div class="bg-canvas" id="bgCanvas"></div>
+<div class="bg-dots" id="bgDots"></div>
+<div class="bg-blob a" id="blobA"></div>
+<div class="bg-blob b" id="blobB"></div>
+<div class="bg-blob c" id="blobC"></div>
+
+<!-- Top nav -->
+<header class="nav" id="nav">
+  <div class="nav-logo">
+    <img src="assets/penluka.png" alt="" />
+    <div>
+      <div>Penluka</div>
+    </div>
+    <span class="jp">ペンルカ</span>
+  </div>
+  <nav class="nav-links">
+    <a href="#concept">コンセプト</a>
+    <a href="#new">新着</a>
+    <a href="#category">カテゴリ</a>
+    <a href="#follow">フォロー</a>
+  </nav>
+</header>
+
+<!-- Right-rail scroll indicator -->
+<aside class="rail" id="rail">
+  <div class="rail-line" id="railLine"></div>
+  <div class="rail-dots">
+    <div class="rail-dot active" data-label="TOP" data-target="hero"></div>
+    <div class="rail-dot" data-label="CONCEPT" data-target="concept"></div>
+    <div class="rail-dot" data-label="NEW" data-target="new"></div>
+    <div class="rail-dot" data-label="CATEGORY" data-target="category"></div>
+    <div class="rail-dot" data-label="FOLLOW" data-target="follow"></div>
+  </div>
+</aside>
+
+<!-- ============ HERO ============ -->
+<section class="hero" id="hero">
+  <svg class="feather f1" viewBox="0 0 40 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M20 0 C 32 20, 32 70, 20 120 C 8 70, 8 20, 20 0 Z" fill="#E8834D" opacity="0.35"/>
+    <path d="M20 5 L 20 115" stroke="#C96432" stroke-width="1" opacity="0.6"/>
+  </svg>
+  <svg class="feather f2" viewBox="0 0 40 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M20 0 C 32 20, 32 70, 20 120 C 8 70, 8 20, 20 0 Z" fill="#7FA0B4" opacity="0.35"/>
+    <path d="M20 5 L 20 115" stroke="#2C3E50" stroke-width="1" opacity="0.6"/>
+  </svg>
+  <svg class="feather f3" viewBox="0 0 40 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+    <path d="M20 0 C 32 20, 32 70, 20 120 C 8 70, 8 20, 20 0 Z" fill="#F3A272" opacity="0.35"/>
+    <path d="M20 5 L 20 115" stroke="#C96432" stroke-width="1" opacity="0.6"/>
+  </svg>
+
+  <div class="hero-mark" id="heroMark">
+    <img src="assets/penluka.png" alt="ペンルカ" />
+  </div>
+
+  <div class="eyebrow">A penguin's pick</div>
+  <h1>ペンルカが選んだ、<br/>今日読める<span class="accent">無料漫画</span>。</h1>
+  <p class="sub">スカッと・感動・恋愛・ホラー、今夜の一冊を。</p>
+
+  <div class="hero-chips">
+    <span>全部 無料</span>
+    <span>毎日 更新</span>
+    <span>スマホ最適化</span>
+  </div>
+
+  <div class="scroll-hint">
+    <span>SCROLL</span>
+    <div class="arrow"></div>
+  </div>
+</section>
+
+<!-- ============ CONCEPT ============ -->
+<section class="concept" id="concept">
+  <div class="container">
+    <div class="eyebrow reveal">About Penluka</div>
+    <h2 class="reveal d1">ペンルカって、<em>なに</em>？</h2>
+    <p class="lead reveal d2">羽根ペンを持った読書家のペンギンが、<br/>今読むべき無料漫画を日々セレクト。<br/>気分に寄り添う一冊を、やさしくお届けします。</p>
+
+    <div class="features">
+      <div class="feat reveal d1">
+        <span class="num">01 / FREE</span>
+        <div class="icon">
+          <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+            <rect x="5" y="8" width="22" height="16" rx="3" stroke="#2C3E50" stroke-width="1.8"/>
+            <path d="M5 13 L 27 13" stroke="#2C3E50" stroke-width="1.8"/>
+            <circle cx="16" cy="18.5" r="2.5" fill="#E8834D"/>
+            <text x="16" y="6" text-anchor="middle" font-family="Fraunces" font-size="5" fill="#E8834D">¥0</text>
+          </svg>
+        </div>
+        <h3>ぜんぶ、無料で読める</h3>
+        <p>紹介する作品はすべて無料公開。アプリのインストールも、会員登録も不要なものだけ。ふと読みたくなった夜、その場で開けます。</p>
+      </div>
+
+      <div class="feat reveal d2">
+        <span class="num">02 / DAILY</span>
+        <div class="icon">
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <rect x="5" y="8" width="24" height="22" rx="3" stroke="#2C3E50" stroke-width="1.8"/>
+            <path d="M5 14 L 29 14" stroke="#2C3E50" stroke-width="1.8"/>
+            <path d="M11 4 L 11 10 M 23 4 L 23 10" stroke="#2C3E50" stroke-width="1.8" stroke-linecap="round"/>
+            <circle cx="17" cy="21" r="3" fill="#E8834D"/>
+          </svg>
+        </div>
+        <h3>毎日、一冊ずつ更新</h3>
+        <p>ペンルカがその日の気分で一冊ずつ。通勤の電車、昼休み、寝る前のベッドで。今日のお気に入りが、毎日見つかります。</p>
+      </div>
+
+      <div class="feat reveal d3">
+        <span class="num">03 / GENRE</span>
+        <div class="icon">
+          <svg width="34" height="34" viewBox="0 0 34 34" fill="none">
+            <path d="M7 8 L 27 8 L 24 17 L 27 26 L 7 26 Z" stroke="#2C3E50" stroke-width="1.8" stroke-linejoin="round"/>
+            <circle cx="14" cy="17" r="2" fill="#E8834D"/>
+            <circle cx="19" cy="17" r="2" fill="#2C3E50"/>
+          </svg>
+        </div>
+        <h3>気分で、ジャンルを選ぶ</h3>
+        <p>スカッと、感動、恋愛、ホラー、ギャグ、異世界。その時々の気持ちにあわせて、ぴったりの物語を。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ NEW (manga grid) ============ -->
+<section class="manga" id="new">
+  <div class="container">
+    <div class="head">
+      <h2 class="reveal">
+        <span class="mini">— Today's Pick</span>
+        ペンルカの新着セレクト<br/>今日の<em style="color:var(--orange); font-style:normal;">9冊</em>。
+      </h2>
+      <p class="reveal d1">ここに並ぶのは、ペンルカがきのうの夜、こっそり最後まで読んでしまった作品たち。どれから開いてみる？</p>
+    </div>
+
+    <div class="grid" id="mangaGrid">
+      <!-- cards rendered by JS -->
+    </div>
+  </div>
+</section>
+
+<!-- ============ CATEGORY ============ -->
+<section class="cats" id="category">
+  <div class="container">
+    <div class="eyebrow reveal" style="justify-content:center; display:flex;">Browse by mood</div>
+    <h2 class="reveal d1">今日の気分で、選ぶ。</h2>
+    <p class="lead reveal d2">ジャンルのボタンをタップすると、ペンルカがそのカテゴリの一冊を連れてきます。</p>
+
+    <div class="cat-grid" id="catGrid">
+      <!-- buttons rendered by JS -->
+    </div>
+  </div>
+</section>
+
+<!-- ============ X CTA ============ -->
+<section id="follow">
+  <div class="x-cta">
+    <div class="x-grid-bg"></div>
+    <div class="x-stars">✦ &nbsp; ✧ &nbsp; ✦</div>
+
+    <div class="eyebrow reveal">Follow on X</div>
+    <h2 class="reveal d1">ペンルカの最新セレクトを、<br/>Xで毎日チェック。</h2>
+    <p class="sub reveal d2">朝いちばんの通勤時間に。夜ふかしのおとも。<br/>毎日 1 冊、ペンルカがそっと呟きます。</p>
+
+    <a href="https://x.com/penluka" class="x-btn reveal d3" target="_blank" rel="noopener">
+      <span class="x-icon">𝕏</span>
+      <span>@penluka をフォロー</span>
+      <span style="font-family:var(--font-en); opacity:0.7;">→</span>
+    </a>
+    <div class="x-handle reveal d4">x.com / penluka</div>
+
+    <div class="peek" aria-hidden="true">
+      <img src="assets/penluka.png" alt="" />
+    </div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="container inner">
+    <div class="brand">
+      <img src="assets/penluka.png" alt="" />
+      <div>
+        <div class="name">Penluka</div>
+        <div class="jp">ペ ン ル カ</div>
+      </div>
+    </div>
+    <nav>
+      <a href="#concept">コンセプト</a>
+      <a href="#new">新着</a>
+      <a href="#category">カテゴリ</a>
+      <a href="https://x.com/penluka" target="_blank" rel="noopener">X / @penluka</a>
+    </nav>
+  </div>
+  <div class="copy">© 2026 PENLUKA.COM &nbsp;·&nbsp; A penguin's curated free-manga pick</div>
+</footer>
+
+<script src="site.js"></script>
+
+</body>
+</html>
