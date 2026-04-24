@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-04-24T15:33:25.076191",
+  "generated_at": "2026-04-24T06:53:47.680117",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CR1MY98W",
-      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0DYMDVVNX",
-      "title": "２９歳婚活女と３９歳婚活男がマッチングしたら ゆりゆの婚活漫画集",
+      "asin": "B0GJN8FS24",
+      "title": "ハイスペの俺様が地雷婚活男のハズがない ゆりゆの婚活漫画集",
       "author": "ゆりゆ",
-      "image": "https://m.media-amazon.com/images/I/51YLFh7NiwL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0DYMDVVNX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51upRbr4D3L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GJN8FS24?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
     {
-      "asin": "B0GDDNZGY3",
-      "title": "姉貴のカス旦那④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/514u-+gKTXL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GDDNZGY3?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CJQ91LF1",
-      "title": "短編集【ホラー編】② みんなの体験談！世にも奇妙ななんかの話",
-      "author": "ババレオ",
-      "image": "https://m.media-amazon.com/images/I/41UaFHfg9eL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJQ91LF1?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0DYMTTTCW",
-      "title": "マッチングアプリデビューが罪悪感いっぱいだった話 ゆりゆの婚活漫画集",
+      "asin": "B0GJ12KCBK",
+      "title": "こんなヒトと結婚しても大丈夫？ ゆりゆの婚活漫画集",
       "author": "ゆりゆ",
-      "image": "https://m.media-amazon.com/images/I/41JEJ4azZCL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0DYMTTTCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/518dV3-gAVL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GJ12KCBK?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
@@ -57,31 +30,58 @@
       "source": "women"
     },
     {
-      "asin": "B0G4JRB395",
-      "title": "子連れ旅行×居眠り運転（2） 星田つまみ短編集",
+      "asin": "B0G4JL2WLV",
+      "title": "我が子が起こした物損トラブル 星田つまみ短編集",
       "author": "星田つまみ",
-      "image": "https://m.media-amazon.com/images/I/51b-6hoaj5L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G4JRB395?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51TEYI9POJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0G4JL2WLV?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
     {
-      "asin": "B0CQ2GVR2T",
-      "title": "最終話 クレームを押し付けてくる同期に仕返ししてやる話",
-      "author": "和泉スゥ",
-      "image": "https://m.media-amazon.com/images/I/51JoCvdAbzL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQ2GVR2T?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0G4JWM7FF",
+      "title": "お昼寝難民と謎のおじさん 星田つまみ短編集",
+      "author": "星田つまみ",
+      "image": "https://m.media-amazon.com/images/I/51Tkfs2nvWL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0G4JWM7FF?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CPS6WTXQ",
+      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0DYMDVVNX",
+      "title": "２９歳婚活女と３９歳婚活男がマッチングしたら ゆりゆの婚活漫画集",
+      "author": "ゆりゆ",
+      "image": "https://m.media-amazon.com/images/I/51YLFh7NiwL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DYMDVVNX?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CJJ5R4YC",
+      "title": "短編集【ホラー編】① みんなの体験談！世にも奇妙ななんかの話",
+      "author": "ババレオ",
+      "image": "https://m.media-amazon.com/images/I/41ZYhknE9yL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJJ5R4YC?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
+    },
+    {
+      "asin": "B0DYMTTTCW",
+      "title": "マッチングアプリデビューが罪悪感いっぱいだった話 ゆりゆの婚活漫画集",
+      "author": "ゆりゆ",
+      "image": "https://m.media-amazon.com/images/I/41JEJ4azZCL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DYMTTTCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
