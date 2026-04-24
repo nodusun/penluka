@@ -3,13 +3,14 @@
 ============================================================ */
 
 // ---------- Categories ----------
+const TAG = "penluka-22";
 const CATEGORIES = [
-  { num: "01", jp: "女性",        en: "Women",       key: "women" },
-  { num: "02", jp: "少年",        en: "Boys",        key: "boys" },
-  { num: "03", jp: "青年",        en: "Young Men",   key: "young" },
-  { num: "04", jp: "インディーズ", en: "Indie",       key: "indie" },
-  { num: "05", jp: "おすすめ",    en: "Recommended", key: "recommended" },
-  { num: "06", jp: "新着",        en: "New Arrivals", key: "new" },
+  { num: "01", jp: "女性",        en: "Women",        url: `https://www.amazon.co.jp/b?node=5916190051&tag=${TAG}` },
+  { num: "02", jp: "少年",        en: "Boys",         url: `https://www.amazon.co.jp/b?node=5916187051&tag=${TAG}` },
+  { num: "03", jp: "青年",        en: "Young Men",    url: `https://www.amazon.co.jp/b?node=5916188051&tag=${TAG}` },
+  { num: "04", jp: "おすすめ",    en: "Recommended",  url: `https://www.amazon.co.jp/b?node=10409694051&tag=${TAG}` },
+  { num: "05", jp: "ランキング",  en: "Ranking",      url: `https://www.amazon.co.jp/b?node=10431890051&tag=${TAG}` },
+  { num: "06", jp: "新着",        en: "New Arrivals", url: `https://www.amazon.co.jp/s?k=Kindle%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%E6%BC%AB%E7%94%BB&i=digital-text&s=date-desc-rank&tag=${TAG}` },
 ];
 
 // ペンルカの一言テンプレート（暫定。後でClaude APIで自動生成予定）
@@ -92,15 +93,18 @@ fetch("data.json", { cache: "no-store" })
 // ---------- Render categories ----------
 const catGrid = document.getElementById("catGrid");
 CATEGORIES.forEach((c, i) => {
-  const btn = document.createElement("button");
-  btn.className = "cat reveal d" + ((i % 5) + 1);
-  btn.innerHTML = `
+  const a = document.createElement("a");
+  a.className = "cat reveal d" + ((i % 5) + 1);
+  a.href = c.url;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.innerHTML = `
     <span class="cat-num">CAT ${c.num}</span>
     <span class="cat-jp">${c.jp}</span>
     <span class="cat-en">${c.en}</span>
     <span class="arrow">→</span>
   `;
-  catGrid.appendChild(btn);
+  catGrid.appendChild(a);
 });
 
 // ---------- Reveal on scroll ----------
