@@ -1,33 +1,24 @@
 {
-  "generated_at": "2026-04-24T21:53:19.055575",
+  "generated_at": "2026-04-25T21:41:56.118982",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CTMHV4MS",
-      "title": "お隣さんの騒音がすごい どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51iU1UtoS3L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTMHV4MS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0GDDNZGY3",
+      "title": "姉貴のカス旦那④",
+      "author": "土井真希",
+      "image": "https://m.media-amazon.com/images/I/514u-+gKTXL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GDDNZGY3?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
     {
-      "asin": "B0GQGFHB68",
-      "title": "婚活はもはや趣味！？: 総集編 ゆりゆの婚活漫画集",
-      "author": "ゆりゆ",
-      "image": "https://m.media-amazon.com/images/I/51sWNi6zqnL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GQGFHB68?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CZ6X9T8M",
+      "title": "施術ミスを認めない美容師にブチ切れた話 ぼめそのエッセイ漫画集",
+      "author": "ぼめそ",
+      "image": "https://m.media-amazon.com/images/I/412n3Jd9jfL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZ6X9T8M?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0G4FBCV1J",
-      "title": "寝落ちしたくない母の負けられない戦い 星田つまみ短編集",
-      "author": "星田つまみ",
-      "image": "https://m.media-amazon.com/images/I/51iaa1MCZuL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0G4FBCV1J?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
+      "source": "recommended"
     },
     {
       "asin": "B0CHZ2B7SP",
@@ -39,49 +30,58 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CJ8WG8DN",
-      "title": "廃墟の男 みんなの体験談！世にも奇妙ななんかの話",
+      "asin": "B0CJQ7D5NH",
+      "title": "短編集【不思議編】③ みんなの体験談！世にも奇妙ななんかの話",
       "author": "ババレオ",
-      "image": "https://m.media-amazon.com/images/I/41UF5ux11LL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJ8WG8DN?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41bjT+-NYpL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJQ7D5NH?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CQ271P4M",
-      "title": "気になる彼の元カノ 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41QSR6sF7kL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQ271P4M?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CPS6WTXQ",
+      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0GX28DHKN",
-      "title": "漏れなく恋愛未経験者。【このハナシ、つづきは墓場で。】のスピンオフ漫画 ぼめそのエッセイ漫画集",
-      "author": "ぼめそ",
-      "image": "https://m.media-amazon.com/images/I/51srcCgCy9L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GX28DHKN?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0GWR8JLFV",
-      "title": "夫に離婚届を突き付けるまで サレ妻アイオリジナル漫画",
-      "author": "サレ妻アイ",
-      "image": "https://m.media-amazon.com/images/I/51LbE4OBXpL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GWR8JLFV?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CL4SDLCW",
-      "title": "執着してくる元彼 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/412TAxWOFKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL4SDLCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CSWSPS2X",
+      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
+    },
+    {
+      "asin": "B0G4JWM7FF",
+      "title": "お昼寝難民と謎のおじさん 星田つまみ短編集",
+      "author": "星田つまみ",
+      "image": "https://m.media-amazon.com/images/I/51Tkfs2nvWL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0G4JWM7FF?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0FR43M8XB",
+      "title": "飯飯飯飯うっせーわ！④",
+      "author": "土井真希",
+      "image": "https://m.media-amazon.com/images/I/51fDuQY-T3L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FR43M8XB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0G4JRB395",
+      "title": "子連れ旅行×居眠り運転（2） 星田つまみ短編集",
+      "author": "星田つまみ",
+      "image": "https://m.media-amazon.com/images/I/51b-6hoaj5L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0G4JRB395?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
