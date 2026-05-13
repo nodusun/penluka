@@ -1,68 +1,32 @@
 {
-  "generated_at": "2026-05-12T22:16:40.628894",
+  "generated_at": "2026-05-13T22:18:51.298853",
   "count": 9,
   "cards": [
     {
-      "asin": "B0GXDLVM61",
-      "title": "私とママ友になってくれませんか？３ みんなのトラブル体験談",
-      "author": "えみこ",
-      "image": "https://m.media-amazon.com/images/I/31PLNcDc4GL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GXDLVM61?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CVDDQGCH",
-      "title": "心霊スポットの漫喫でバイトしてた話 パチ美のWeb漫画まとめ",
-      "author": "パチ美",
-      "image": "https://m.media-amazon.com/images/I/51Y4KmoxiFL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVDDQGCH?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CQ2GVR2T",
+      "title": "最終話 クレームを押し付けてくる同期に仕返ししてやる話",
+      "author": "和泉スゥ",
+      "image": "https://m.media-amazon.com/images/I/51JoCvdAbzL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQ2GVR2T?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CSWSPS2X",
-      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR1MY98W",
-      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CGR4KL4T",
-      "title": "つよくてニューゲームなラブコメ 8 キッズのラブコメ",
-      "author": "屋乃啓人",
-      "image": "https://m.media-amazon.com/images/I/51hb04G3jcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CGR4KL4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQQ5S79F",
-      "title": "自由すぎる友人とは絶縁が吉【前編】 みんなのトンデモ体験漫画集",
-      "author": "稲(いな)",
-      "image": "https://m.media-amazon.com/images/I/41lGDmbQs0L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQQ5S79F?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CM9PF66D",
-      "title": "爆弾幼女メイちゃん1 相田カンナのマンガ集",
+      "asin": "B0CMBKY9JJ",
+      "title": "金無さんのハッピーマネーライフ 相田カンナのマンガ集",
       "author": "相田カンナ",
-      "image": "https://m.media-amazon.com/images/I/51Yz1mzEF2L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CM9PF66D?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/513sZFC1VQL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMBKY9JJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSQKCB6L",
+      "title": "うちの夫が育児をしない どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51klv+8X+QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSQKCB6L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
       "source": "recommended"
     },
     {
@@ -75,11 +39,47 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CTMHV4MS",
-      "title": "お隣さんの騒音がすごい どこかの誰かの体験談マンガ",
+      "asin": "B0DYMDVVNX",
+      "title": "２９歳婚活女と３９歳婚活男がマッチングしたら ゆりゆの婚活漫画集",
+      "author": "ゆりゆ",
+      "image": "https://m.media-amazon.com/images/I/51YLFh7NiwL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0DYMDVVNX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CVDVCJT9",
+      "title": "優しい彼氏はマザコン男 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51iU1UtoS3L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTMHV4MS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51sSSXPyjGL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVDVCJT9?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CZDTND4R",
+      "title": "もう触れないキミ【同人版】8巻",
+      "author": "タツノコ。",
+      "image": "https://m.media-amazon.com/images/I/41ruimVNDwL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZDTND4R?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "少年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0GNMX5MYG",
+      "title": "私とママ友になってくれませんか？２ みんなのトラブル体験談",
+      "author": "えみこ",
+      "image": "https://m.media-amazon.com/images/I/31g7JupferL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GNMX5MYG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CW198PT9",
+      "title": "××スケブ男にご注意: 同人女がファンにセクハラ粘着された話 パチ美のWeb漫画まとめ",
+      "author": "パチ美",
+      "image": "https://m.media-amazon.com/images/I/516L8yAoRkL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW198PT9?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
