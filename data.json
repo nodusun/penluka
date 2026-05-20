@@ -1,58 +1,49 @@
 {
-  "generated_at": "2026-05-19T22:20:06.887117",
+  "generated_at": "2026-05-20T22:26:11.574153",
   "count": 9,
   "cards": [
+    {
+      "asin": "B0CVF1M7W2",
+      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CR1MY98W",
+      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CP4L73ZZ",
+      "title": "つよくてニューゲームなラブコメ9 キッズのラブコメ",
+      "author": "屋乃啓人",
+      "image": "https://m.media-amazon.com/images/I/51S3tlye7pL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CP4L73ZZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "少年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CV81ZB59",
+      "title": "生理的に無理な人と結婚しかけた話【前編】 パチ美のWeb漫画まとめ",
+      "author": "パチ美",
+      "image": "https://m.media-amazon.com/images/I/51fQWrbzokL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CV81ZB59?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
     {
       "asin": "B0CW1CB1TM",
       "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
       "author": "あやかず",
       "image": "https://m.media-amazon.com/images/I/415EViaRuRL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CW1CB1TM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQGRYS4T",
-      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CT3Y818L",
-      "title": "私と夫の異常な関係 りず漫画集",
-      "author": "りず",
-      "image": "https://m.media-amazon.com/images/I/41aKBOO4XFL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CT3Y818L?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CSWSPS2X",
-      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CVB11V3Q",
-      "title": "生理的に無理な人と結婚しかけた話【後編】 パチ美のWeb漫画まとめ",
-      "author": "パチ美",
-      "image": "https://m.media-amazon.com/images/I/51fQWrbzokL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVB11V3Q?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQQ5S79F",
-      "title": "自由すぎる友人とは絶縁が吉【前編】 みんなのトンデモ体験漫画集",
-      "author": "稲(いな)",
-      "image": "https://m.media-amazon.com/images/I/41lGDmbQs0L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQQ5S79F?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -66,20 +57,29 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CSX7H16X",
+      "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41r-wXoFBFL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSX7H16X?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CV81ZB59",
-      "title": "生理的に無理な人と結婚しかけた話【前編】 パチ美のWeb漫画まとめ",
-      "author": "パチ美",
-      "image": "https://m.media-amazon.com/images/I/51fQWrbzokL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CV81ZB59?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CW1GLDWP",
+      "title": "奴隷の王: 番外編 殺戮の王",
+      "author": "ヤギ君",
+      "image": "https://m.media-amazon.com/images/I/51J8Z7S0geL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW1GLDWP?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "少年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CR1KHCHL",
+      "title": "仕送りをねだってくる義母 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51RQNSe4bxL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR1KHCHL?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
