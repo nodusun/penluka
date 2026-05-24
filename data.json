@@ -1,7 +1,52 @@
 {
-  "generated_at": "2026-05-23T21:59:05.994844",
+  "generated_at": "2026-05-24T22:00:04.213403",
   "count": 9,
   "cards": [
+    {
+      "asin": "B0CZXFVWP8",
+      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
+      "author": "ちなきち",
+      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTCPS6Q7",
+      "title": "バ美肉おじいちゃんの恋情",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/515ujEGAPoL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTCPS6Q7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQS9FD3Q",
+      "title": "バ美肉おじいちゃんの美声",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/51FrUNLn10L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQS9FD3Q?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CVF1M7W2",
+      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0H2GMHLMX",
+      "title": "私とママ友になってくれませんか？４ みんなのトラブル体験談",
+      "author": "えみこ",
+      "image": "https://m.media-amazon.com/images/I/31aETSObiOL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H2GMHLMX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
     {
       "asin": "B0CW1MYSC6",
       "title": "平凡な私が超絶イケメンに告白されるまでの270日間【2】 りず漫画集",
@@ -12,76 +57,31 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CW1CB1TM",
-      "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
-      "author": "あやかず",
-      "image": "https://m.media-amazon.com/images/I/415EViaRuRL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1CB1TM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CVDVCJT9",
-      "title": "優しい彼氏はマザコン男 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51sSSXPyjGL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVDVCJT9?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CPV1MBXG",
-      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
+      "asin": "B0CPS6WTXQ",
+      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
       "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CHPL3975",
-      "title": "1巻:バ美肉おじいちゃんの誕生",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/516lBZQaG6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CHPL3975?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CNNN5J8H",
-      "title": "バ美肉おじいちゃんの変身",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/51d23Bmc+iL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNNN5J8H?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTFMXP9N",
-      "title": "長年連れ添った妻は知らない人でした。 みんなのトラブル体験談",
-      "author": "えみこ",
-      "image": "https://m.media-amazon.com/images/I/41uW1ohXoiL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTFMXP9N?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CSQKCB6L",
-      "title": "うちの夫が育児をしない どこかの誰かの体験談マンガ",
+      "asin": "B0CQGRYS4T",
+      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51klv+8X+QL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CSQKCB6L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0GXDLVM61",
-      "title": "私とママ友になってくれませんか？３ みんなのトラブル体験談",
-      "author": "えみこ",
-      "image": "https://m.media-amazon.com/images/I/31PLNcDc4GL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0GXDLVM61?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CSX7H16X",
+      "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41r-wXoFBFL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSX7H16X?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "women"
+      "source": "recommended"
     }
   ]
 }
