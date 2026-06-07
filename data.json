@@ -1,67 +1,58 @@
 {
-  "generated_at": "2026-06-06T22:08:26.149292",
+  "generated_at": "2026-06-07T22:10:09.205024",
   "count": 9,
   "cards": [
     {
-      "asin": "B0H2GMHLMX",
-      "title": "私とママ友になってくれませんか？４ みんなのトラブル体験談",
-      "author": "えみこ",
-      "image": "https://m.media-amazon.com/images/I/31aETSObiOL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H2GMHLMX?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CVJXS7JR",
-      "title": "スキップ時計",
-      "author": "がっしー",
-      "image": "https://m.media-amazon.com/images/I/21IUpDadJXL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVJXS7JR?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CL4SDLCW",
-      "title": "執着してくる元彼 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/412TAxWOFKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL4SDLCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CW1GLDWP",
-      "title": "奴隷の王: 番外編 殺戮の王",
-      "author": "ヤギ君",
-      "image": "https://m.media-amazon.com/images/I/51J8Z7S0geL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1GLDWP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0FR43M8XB",
-      "title": "飯飯飯飯うっせーわ！④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/51fDuQY-T3L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FR43M8XB?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CPYLCZT8",
-      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR7VBZY2",
-      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
+      "asin": "B0CR1KHCHL",
+      "title": "仕送りをねだってくる義母 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51RQNSe4bxL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR1KHCHL?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKPLSZZ5",
+      "title": "私の彼氏が不倫相手 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41YofiT+qDL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKPLSZZ5?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0H3WDD8MR",
+      "title": "私とママ友になってくれませんか？後日談 みんなのトラブル体験談",
+      "author": "えみこ",
+      "image": "https://m.media-amazon.com/images/I/41xc8w+Sb2L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H3WDD8MR?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CL34GVNG",
+      "title": "バ美肉おじいちゃんの受難",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTCPS6Q7",
+      "title": "バ美肉おじいちゃんの恋情",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/515ujEGAPoL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTCPS6Q7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQGRYS4T",
+      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -75,11 +66,20 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CQGRYS4T",
-      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
+      "asin": "B0CKTLBTSB",
+      "title": "元カノの生き霊 みんなの体験談！世にも奇妙ななんかの話",
+      "author": "ババレオ",
+      "image": "https://m.media-amazon.com/images/I/41-sjAbhQZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKTLBTSB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CVDVCJT9",
+      "title": "優しい彼氏はマザコン男 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51sSSXPyjGL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVDVCJT9?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
