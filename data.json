@@ -1,23 +1,41 @@
 {
-  "generated_at": "2026-06-08T22:42:27.214909",
+  "generated_at": "2026-06-09T22:26:43.223322",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CKTK8JXZ",
-      "title": "彼氏から慰謝料ぶんどった話 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41s5znA2JAL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKTK8JXZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CVDVCJT9",
+      "title": "優しい彼氏はマザコン男 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51sSSXPyjGL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVDVCJT9?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CVF1M7W2",
-      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CZ6X9T8M",
+      "title": "施術ミスを認めない美容師にブチ切れた話 ぼめそのエッセイ漫画集",
+      "author": "ぼめそ",
+      "image": "https://m.media-amazon.com/images/I/412n3Jd9jfL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZ6X9T8M?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CR1MY98W",
+      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CWYXRCZK",
+      "title": "バ美肉おじいちゃんの混迷",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/51RMy2tSi4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CWYXRCZK?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
       "source": "recommended"
     },
     {
@@ -30,49 +48,22 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CHPL3975",
-      "title": "1巻:バ美肉おじいちゃんの誕生",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/516lBZQaG6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CHPL3975?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKXRBHT3",
-      "title": "アプリで出会った理想の恋人 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/51Fwphcz2KL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKXRBHT3?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0H3Y4C4GZ",
+      "title": "子どもの分まで食い尽くす夫の末路 たまきオリジナル漫画集",
+      "author": "たまき",
+      "image": "https://m.media-amazon.com/images/I/51ZD6GbpuPL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H3Y4C4GZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
+      "source": "women"
     },
     {
-      "asin": "B0CWRQL2NW",
-      "title": "殺戮の王⑪: 殺戮の王完結",
-      "author": "ヤギ君",
-      "image": "https://m.media-amazon.com/images/I/51CB09C-eKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CWRQL2NW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CL4SDLCW",
-      "title": "執着してくる元彼 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/412TAxWOFKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL4SDLCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0H2GMHLMX",
+      "title": "私とママ友になってくれませんか？４ みんなのトラブル体験談",
+      "author": "えみこ",
+      "image": "https://m.media-amazon.com/images/I/31aETSObiOL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H2GMHLMX?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CVJXS7JR",
-      "title": "スキップ時計",
-      "author": "がっしー",
-      "image": "https://m.media-amazon.com/images/I/21IUpDadJXL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVJXS7JR?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
+      "source": "women"
     },
     {
       "asin": "B0CSWSPS2X",
@@ -82,6 +73,15 @@
       "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
+    },
+    {
+      "asin": "B0H2XLT3HB",
+      "title": "家族よりも男女混合グループを優先する夫⑬",
+      "author": "APPTOPIマンガ",
+      "image": "https://m.media-amazon.com/images/I/51u0GpVcuNL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H2XLT3HB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
