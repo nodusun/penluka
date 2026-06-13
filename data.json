@@ -1,40 +1,31 @@
 {
-  "generated_at": "2026-06-12T22:28:12.725634",
+  "generated_at": "2026-06-13T22:10:06.734263",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CSQKCB6L",
-      "title": "うちの夫が育児をしない どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51klv+8X+QL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CSQKCB6L?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR7VBZY2",
-      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CHPL3975",
-      "title": "1巻:バ美肉おじいちゃんの誕生",
+      "asin": "B0D1QRGC9F",
+      "title": "バ美肉おじいちゃんの疑惑",
       "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/516lBZQaG6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CHPL3975?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/5120TXvpq4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D1QRGC9F?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CL4SDLCW",
-      "title": "執着してくる元彼 読者さんの恋愛・浮気体験談",
+      "asin": "B0H2XLKYS7",
+      "title": "家族よりも男女混合グループを優先する夫⑮",
+      "author": "APPTOPIマンガ",
+      "image": "https://m.media-amazon.com/images/I/51FcHI9rfPL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H2XLKYS7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CPYLCZT8",
+      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/412TAxWOFKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL4SDLCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -48,22 +39,31 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CKP885R9",
-      "title": "不倫相手が大暴れ 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41-xAWGP+1L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKP885R9?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
+      "asin": "B0CTCPS6Q7",
+      "title": "バ美肉おじいちゃんの恋情",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/515ujEGAPoL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTCPS6Q7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0H17PPPFW",
-      "title": "あなたはなんてかわいそう②",
-      "author": "山野しらす",
-      "image": "https://m.media-amazon.com/images/I/41jJb4VjvLL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H17PPPFW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CL34GVNG",
+      "title": "バ美肉おじいちゃんの受難",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CL4SDLCW",
+      "title": "執着してくる元彼 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/412TAxWOFKL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CL4SDLCW?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "women"
+      "source": "recommended"
     },
     {
       "asin": "B0CZ6X9T8M",
@@ -75,13 +75,13 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CKTLBTSB",
-      "title": "元カノの生き霊 みんなの体験談！世にも奇妙ななんかの話",
-      "author": "ババレオ",
-      "image": "https://m.media-amazon.com/images/I/41-sjAbhQZL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKTLBTSB?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
+      "asin": "B0FBD6MQ5Z",
+      "title": "独身と既婚どっちが幸せ？６: みんなの主役になりたい！編",
+      "author": "ゆりゆ",
+      "image": "https://m.media-amazon.com/images/I/51m-k5DF6FL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FBD6MQ5Z?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
