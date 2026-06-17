@@ -1,49 +1,67 @@
 {
-  "generated_at": "2026-06-16T22:54:50.049038",
+  "generated_at": "2026-06-17T22:47:09.063454",
   "count": 9,
   "cards": [
     {
-      "asin": "B0H17PPPFW",
-      "title": "あなたはなんてかわいそう②",
-      "author": "山野しらす",
-      "image": "https://m.media-amazon.com/images/I/41jJb4VjvLL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H17PPPFW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CPLC2KJH",
-      "title": "オタクばあちゃああん！！ 伊達しのぶ短編集",
-      "author": "伊達しのぶ",
-      "image": "https://m.media-amazon.com/images/I/51Ojr94sb7L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPLC2KJH?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CLZB4MKS",
-      "title": "見つからない不倫の証拠 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/416TOjtQhJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CLZB4MKS?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTCPS6Q7",
-      "title": "バ美肉おじいちゃんの恋情",
+      "asin": "B0D1QRGC9F",
+      "title": "バ美肉おじいちゃんの疑惑",
       "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/515ujEGAPoL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTCPS6Q7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/5120TXvpq4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D1QRGC9F?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CR1MY98W",
-      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
+      "asin": "B0CL34GVNG",
+      "title": "バ美肉おじいちゃんの受難",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQGRYS4T",
+      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CZXFVWP8",
+      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
+      "author": "ちなきち",
+      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKPLSZZ5",
+      "title": "私の彼氏が不倫相手 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41YofiT+qDL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKPLSZZ5?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTMHV4MS",
+      "title": "お隣さんの騒音がすごい どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51iU1UtoS3L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTMHV4MS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPYLCZT8",
+      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -57,29 +75,11 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CWYXRCZK",
-      "title": "バ美肉おじいちゃんの混迷",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/51RMy2tSi4L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CWYXRCZK?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKPLSZZ5",
-      "title": "私の彼氏が不倫相手 読者さんの恋愛・浮気体験談",
+      "asin": "B0CVF1M7W2",
+      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41YofiT+qDL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKPLSZZ5?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
