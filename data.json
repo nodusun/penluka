@@ -1,22 +1,49 @@
 {
-  "generated_at": "2026-06-20T22:14:31.209469",
+  "generated_at": "2026-06-21T22:18:28.121454",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CR1KHCHL",
-      "title": "仕送りをねだってくる義母 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51RQNSe4bxL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR1KHCHL?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CPS6WTXQ",
+      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CPB1936L",
-      "title": "僕は妻の浮気を疑っている 読者さんの恋愛・浮気体験談",
+      "asin": "B0CPYLCZT8",
+      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41tfzf3pcnL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPB1936L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKQ1VN9S",
+      "title": "原因はセックスレス 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41HjfijxNLL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKQ1VN9S?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0H4LYCRZ6",
+      "title": "家族よりも男女混合グループを優先する夫⑰",
+      "author": "APPTOPIマンガ",
+      "image": "https://m.media-amazon.com/images/I/51EtqNr8dXL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H4LYCRZ6?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CKYM5C6C",
+      "title": "バイト先の先輩 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41cYeB5QcAL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKYM5C6C?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -30,56 +57,29 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CQXH39QF",
-      "title": "夫が連れてきた謎のママ友 読者さんの恋愛・浮気体験談",
+      "asin": "B0CLZB4MKS",
+      "title": "見つからない不倫の証拠 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41bYbJMLLJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQXH39QF?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/416TOjtQhJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CLZB4MKS?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0H17PPPFW",
-      "title": "あなたはなんてかわいそう②",
-      "author": "山野しらす",
-      "image": "https://m.media-amazon.com/images/I/41jJb4VjvLL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H17PPPFW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CPV1MBXG",
-      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CZ6X9T8M",
+      "title": "施術ミスを認めない美容師にブチ切れた話 ぼめそのエッセイ漫画集",
+      "author": "ぼめそ",
+      "image": "https://m.media-amazon.com/images/I/412n3Jd9jfL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZ6X9T8M?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CND6NDSW",
-      "title": "出会い系で彼氏と出会ってみた 読者さんの恋愛・浮気体験談",
+      "asin": "B0CMV8DJTF",
+      "title": "一緒に復讐しませんか？ 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41h6ltrp4vL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CND6NDSW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTFMXP9N",
-      "title": "長年連れ添った妻は知らない人でした。 みんなのトラブル体験談",
-      "author": "えみこ",
-      "image": "https://m.media-amazon.com/images/I/41uW1ohXoiL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTFMXP9N?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41Hfxz9L3VL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMV8DJTF?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
