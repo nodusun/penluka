@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-06-30T22:18:06.450774",
+  "generated_at": "2026-07-01T22:21:52.172467",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CT3Y818L",
-      "title": "私と夫の異常な関係 りず漫画集",
-      "author": "りず",
-      "image": "https://m.media-amazon.com/images/I/41aKBOO4XFL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CT3Y818L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0H6MDVT7B",
+      "title": "ファミリーカーが○○に！？ たまきオリジナル漫画集",
+      "author": "たまき",
+      "image": "https://m.media-amazon.com/images/I/41fTh-bwHyL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6MDVT7B?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
+      "source": "women"
     },
     {
-      "asin": "B0CNG9G7WB",
-      "title": "彼と私の現金ボックス 読者さんの恋愛・浮気体験談",
+      "asin": "B0CKTK8JXZ",
+      "title": "彼氏から慰謝料ぶんどった話 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41LbD5uTPJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNG9G7WB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41s5znA2JAL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKTK8JXZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CZ6X9T8M",
-      "title": "施術ミスを認めない美容師にブチ切れた話 ぼめそのエッセイ漫画集",
-      "author": "ぼめそ",
-      "image": "https://m.media-amazon.com/images/I/412n3Jd9jfL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZ6X9T8M?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CMV8DJTF",
+      "title": "一緒に復讐しませんか？ 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41Hfxz9L3VL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMV8DJTF?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CL34GVNG",
-      "title": "バ美肉おじいちゃんの受難",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
       "source": "recommended"
     },
     {
@@ -44,15 +35,6 @@
       "author": "3cha",
       "image": "https://m.media-amazon.com/images/I/4104DqQwFcL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CMJ6X4CP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CVF1M7W2",
-      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -66,20 +48,38 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CWRQL2NW",
-      "title": "殺戮の王⑪: 殺戮の王完結",
-      "author": "ヤギ君",
-      "image": "https://m.media-amazon.com/images/I/51CB09C-eKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CWRQL2NW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
+      "asin": "B0H697D9XM",
+      "title": "マタニティーブルーな夫 葱田たまこオリジナル漫画",
+      "author": "葱田たまこ",
+      "image": "https://m.media-amazon.com/images/I/41voqLQ2I4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H697D9XM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0D1QRGC9F",
+      "title": "バ美肉おじいちゃんの疑惑",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/5120TXvpq4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D1QRGC9F?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CZX7H9R6",
+      "title": "思い通りに育たなかったわたしを愛せますか？② シカ漫画シリーズ",
+      "author": "shika",
+      "image": "https://m.media-amazon.com/images/I/41DzWEjOGlL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZX7H9R6?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CZXHBYK8",
+      "title": "思い通りに育たなかったわたしを愛せますか？① シカ漫画シリーズ",
+      "author": "shika",
+      "image": "https://m.media-amazon.com/images/I/416ZPYOxU5L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CZXHBYK8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
