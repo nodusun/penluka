@@ -1,67 +1,22 @@
 {
-  "generated_at": "2026-07-05T22:06:03.450821",
+  "generated_at": "2026-07-06T22:18:38.466265",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CNNN5J8H",
-      "title": "バ美肉おじいちゃんの変身",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/51d23Bmc+iL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNNN5J8H?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQQL5886",
-      "title": "手術中に目覚めた話 みんなのトンデモ体験漫画集",
-      "author": "稲(いな)",
-      "image": "https://m.media-amazon.com/images/I/51j+0m7KVdL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQQL5886?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CWYXRCZK",
-      "title": "バ美肉おじいちゃんの混迷",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/51RMy2tSi4L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CWYXRCZK?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKXRBHT3",
-      "title": "アプリで出会った理想の恋人 読者さんの恋愛・浮気体験談",
+      "asin": "B0CNP9YBF8",
+      "title": "私の彼氏に恋するおば様 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/51Fwphcz2KL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKXRBHT3?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51pJMfTxzYL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNP9YBF8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
     {
-      "asin": "B0CKQ1VN9S",
-      "title": "原因はセックスレス 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41HjfijxNLL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKQ1VN9S?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKTK8JXZ",
-      "title": "彼氏から慰謝料ぶんどった話 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41s5znA2JAL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKTK8JXZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0FQG5PMWM",
-      "title": "女は少食で然るべき④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/51q-dfHuRdL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FQG5PMWM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0GZCHKL7W",
+      "title": "息子に学歴主義を植え付けないで 本当にあったヤバい人エピ",
+      "author": "エピオリComic",
+      "image": "https://m.media-amazon.com/images/I/51426uJ11zL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0GZCHKL7W?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
@@ -75,11 +30,56 @@
       "source": "recommended"
     },
     {
+      "asin": "B0CKYM5C6C",
+      "title": "バイト先の先輩 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41cYeB5QcAL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKYM5C6C?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKQ2MZVG",
+      "title": "母親の呪い 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41jGpRb4VTL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKQ2MZVG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CNG9G7WB",
+      "title": "彼と私の現金ボックス 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41LbD5uTPJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNG9G7WB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
       "asin": "B0CKPDCJM3",
       "title": "浮気相手は私の親友？ 読者さんの恋愛・浮気体験談",
       "author": "3cha",
       "image": "https://m.media-amazon.com/images/I/41-QThTv+xL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CKPDCJM3?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTCPS6Q7",
+      "title": "バ美肉おじいちゃんの恋情",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/515ujEGAPoL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTCPS6Q7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPB1936L",
+      "title": "僕は妻の浮気を疑っている 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41tfzf3pcnL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPB1936L?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
