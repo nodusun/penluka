@@ -1,51 +1,24 @@
 {
-  "generated_at": "2026-07-22T22:08:52.115368",
+  "generated_at": "2026-07-23T22:08:34.043985",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CKM9DLNZ",
-      "title": "奇行をくり返す彼氏と別れたい 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41ziCFvTDpL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKM9DLNZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CPSFN7BF",
-      "title": "第29巻「無限癇癪編②」 エスプレッソ・コーラ",
+      "asin": "B0CH33DHCP",
+      "title": "第16巻「マウンティング編⑤」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31YcDg291vL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPSFN7BF?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41Gw8osaLhL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CH33DHCP?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CNX8YFHP",
-      "title": "第27巻「ダウン症のプリンセス編④」 エスプレッソ・コーラ",
+      "asin": "B0CLDDKT7R",
+      "title": "第22巻「不登校・LD編③」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31CCKOGai6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNX8YFHP?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/31qvLMDTnvL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CLDDKT7R?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
-    },
-    {
-      "asin": "B0CZXMTQHM",
-      "title": "第46巻「オンライン編④」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31MyVki1KcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXMTQHM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0H8X7H2HC",
-      "title": "人の家の食卓を荒らす男の話 たまきオリジナル漫画集",
-      "author": "たまき",
-      "image": "https://m.media-amazon.com/images/I/51nb7YzlXIL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0H8X7H2HC?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
     },
     {
       "asin": "B0CTFMXP9N",
@@ -57,31 +30,58 @@
       "source": "recommended"
     },
     {
-      "asin": "B0FQG5PMWM",
-      "title": "女は少食で然るべき④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/51q-dfHuRdL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FQG5PMWM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CJ3GHPGV",
+      "title": "第18巻「グレーゾーン編②」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/4172zh1B2zL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJ3GHPGV?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0H8WLPG37",
+      "title": "結婚式のマナーは守りましょう たまきオリジナル漫画集",
+      "author": "たまき",
+      "image": "https://m.media-amazon.com/images/I/51BWRv8Q8FL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H8WLPG37?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
     },
     {
-      "asin": "B0CWRQL2NW",
-      "title": "殺戮の王⑪: 殺戮の王完結",
-      "author": "ヤギ君",
-      "image": "https://m.media-amazon.com/images/I/51CB09C-eKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CWRQL2NW?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
+      "asin": "B0CP93KDWH",
+      "title": "第28巻「無限癇癪編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/318de7DJ8QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CP93KDWH?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CPS6WTXQ",
-      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CMP44VMR",
+      "title": "第24巻「ダウン症のプリンセス編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31BuX6OltpL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMP44VMR?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPB1936L",
+      "title": "僕は妻の浮気を疑っている 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41tfzf3pcnL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPB1936L?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
+    },
+    {
+      "asin": "B0H8X7H2HC",
+      "title": "人の家の食卓を荒らす男の話 たまきオリジナル漫画集",
+      "author": "たまき",
+      "image": "https://m.media-amazon.com/images/I/51nb7YzlXIL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H8X7H2HC?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
