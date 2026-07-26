@@ -1,13 +1,22 @@
 {
-  "generated_at": "2026-07-25T21:59:53.841688",
+  "generated_at": "2026-07-26T22:02:47.298105",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CJ3GHPGV",
-      "title": "第18巻「グレーゾーン編②」 エスプレッソ・コーラ",
+      "asin": "B0CTCD6L4Y",
+      "title": "第36巻「ウサギとカメ編①」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/4172zh1B2zL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJ3GHPGV?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/31jVOKXKV1L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTCD6L4Y?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CVBK9ZKL",
+      "title": "第38巻「ヴォイス編」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31szjCyJCDL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVBK9ZKL?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
@@ -21,29 +30,29 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CHJXW61C",
-      "title": "第17巻「グレーゾーン編①」 エスプレッソ・コーラ",
+      "asin": "B0CJNCVF2F",
+      "title": "第19巻「グレーゾーン編③」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/411uX4CZynL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CHJXW61C?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41FG7Wbl0xL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJNCVF2F?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CW1L78ZP",
-      "title": "第40巻「抑圧された妖精編②」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31ObhoRvkiL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1L78ZP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
+      "asin": "B0CW1GLDWP",
+      "title": "奴隷の王: 番外編 殺戮の王",
+      "author": "ヤギ君",
+      "image": "https://m.media-amazon.com/images/I/51J8Z7S0geL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW1GLDWP?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "少年",
       "source": "recommended"
     },
     {
-      "asin": "B0CR5STLPJ",
-      "title": "第32巻「モンスター編①」 エスプレッソ・コーラ",
+      "asin": "B0CVRCR5DZ",
+      "title": "第39巻「抑圧された妖精編①」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31bFLB9OIjL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR5STLPJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41ns6akJRjL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVRCR5DZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
@@ -57,29 +66,20 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CKYVMJLF",
-      "title": "第21巻「不登校・LD編②」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31wKOkYBPhL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKYVMJLF?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CN2S3YR1",
-      "title": "第25巻「ダウン症のプリンセス編②」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31JbtftSEQL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CN2S3YR1?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
       "asin": "B0CLZGDZ3V",
       "title": "第23巻「LD・不登校編④」 エスプレッソ・コーラ",
       "author": "ゆり子",
       "image": "https://m.media-amazon.com/images/I/31pdZl3wE3L._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CLZGDZ3V?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CYV9GQGX",
+      "title": "第44巻「オンライン編②」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31aCOkXOj9L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CYV9GQGX?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     }
