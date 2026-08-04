@@ -1,5 +1,51 @@
 {
-  "generated_at": "2026-08-03T22:11:26.710862",
-  "count": 0,
-  "cards": []
+  "generated_at": "2026-08-04T22:17:11.117371",
+  "count": 5,
+  "cards": [
+    {
+      "asin": "B0FQG5PMWM",
+      "title": "女は少食で然るべき④",
+      "author": "土井真希",
+      "image": "https://m.media-amazon.com/images/I/51q-dfHuRdL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FQG5PMWM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0H96HWKN4",
+      "title": "優しい優しいお母さん②",
+      "author": "山野しらす",
+      "image": "https://m.media-amazon.com/images/I/4135kkTOqHL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H96HWKN4?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0H6S74D96",
+      "title": "「正しい」夫婦（後編）",
+      "author": "ぺ子",
+      "image": "https://m.media-amazon.com/images/I/41c5KNgHqsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6S74D96?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0H6S3RW71",
+      "title": "「正しい」夫婦（前編）",
+      "author": "ぺ子",
+      "image": "https://m.media-amazon.com/images/I/41nHY8ZGhgL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6S3RW71?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0CR7VBZY2",
+      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    }
+  ]
 }
