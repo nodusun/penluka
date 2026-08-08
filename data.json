@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:43:53.881427",
+  "generated_at": "2026-08-08T21:34:38.875607",
   "count": 9,
   "cards": [
     {
@@ -12,38 +12,11 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CV81ZB59",
-      "title": "生理的に無理な人と結婚しかけた話【前編】 パチ美のWeb漫画まとめ",
-      "author": "パチ美",
-      "image": "https://m.media-amazon.com/images/I/51fQWrbzokL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CV81ZB59?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR7VBZY2",
-      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
+      "asin": "B0CSWSPS2X",
+      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
       "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0FQG5PMWM",
-      "title": "女は少食で然るべき④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/51q-dfHuRdL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0FQG5PMWM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CJTWNG4S",
-      "title": "分娩室乱入事件【3】",
-      "author": "Ai",
-      "image": "https://m.media-amazon.com/images/I/41SAsayjMBL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJTWNG4S?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -55,6 +28,15 @@
       "url": "https://www.amazon.co.jp/dp/B0CJTX34M7?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
+    },
+    {
+      "asin": "B0HBPVMQSR",
+      "title": "アレルギーを軽視する夫の暴走 本当にあったヤバい人エピ",
+      "author": "エピオリComic",
+      "image": "https://m.media-amazon.com/images/I/41pLLl8T3TL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0HBPVMQSR?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     },
     {
       "asin": "B0CVB11V3Q",
@@ -75,13 +57,31 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CQGRYS4T",
-      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0FQG5PMWM",
+      "title": "女は少食で然るべき④",
+      "author": "土井真希",
+      "image": "https://m.media-amazon.com/images/I/51q-dfHuRdL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0FQG5PMWM?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
+      "source": "women"
+    },
+    {
+      "asin": "B0H6S74D96",
+      "title": "「正しい」夫婦（後編）",
+      "author": "ぺ子",
+      "image": "https://m.media-amazon.com/images/I/41c5KNgHqsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6S74D96?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0H6S3RW71",
+      "title": "「正しい」夫婦（前編）",
+      "author": "ぺ子",
+      "image": "https://m.media-amazon.com/images/I/41nHY8ZGhgL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6S3RW71?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     }
   ]
 }
