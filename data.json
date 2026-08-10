@@ -1,67 +1,22 @@
 {
-  "generated_at": "2026-08-09T21:37:34.967419",
-  "count": 9,
+  "generated_at": "2026-08-10T21:47:49.126134",
+  "count": 5,
   "cards": [
-    {
-      "asin": "B0CTTGCNHY",
-      "title": "省エネ事務員しょう子ちゃん7",
-      "author": "すあま",
-      "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKSTF3HQ",
-      "title": "ヤバ過ぎる義父と絶縁した話【2】",
-      "author": "Ai",
-      "image": "https://m.media-amazon.com/images/I/51WGouxmY-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKSTF3HQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CSWSPS2X",
-      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQGRYS4T",
-      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CZXFVWP8",
-      "title": "主婦の私が宝くじで３億円当たりました 主婦の私が宝くじで3億円当たりました　ちなきち漫画集",
-      "author": "ちなきち",
-      "image": "https://m.media-amazon.com/images/I/51oJGCo-F-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXFVWP8?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CJTWNG4S",
-      "title": "分娩室乱入事件【3】",
-      "author": "Ai",
-      "image": "https://m.media-amazon.com/images/I/41SAsayjMBL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJTWNG4S?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
     {
       "asin": "B0CJTX34M7",
       "title": "分娩室乱入事件【4】",
       "author": "Ai",
       "image": "https://m.media-amazon.com/images/I/41g7-sS9r6L._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CJTX34M7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CR7VBZY2",
+      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     },
@@ -80,6 +35,15 @@
       "author": "Ai",
       "image": "https://m.media-amazon.com/images/I/41gYUpXOIKL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CJRCJ2Z3?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CJTWNG4S",
+      "title": "分娩室乱入事件【3】",
+      "author": "Ai",
+      "image": "https://m.media-amazon.com/images/I/41SAsayjMBL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJTWNG4S?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
