@@ -1,34 +1,7 @@
 {
-  "generated_at": "2026-08-28T05:09:53.496696",
+  "generated_at": "2026-08-29T03:06:55.383109",
   "count": 9,
   "cards": [
-    {
-      "asin": "B0CQCQ2VJN",
-      "title": "26集: リザードマンの女の子と変態の話～竜ケ崎さんと遊上、入れ替わる～ 優し異世界へようこそ",
-      "author": "一智和智",
-      "image": "https://m.media-amazon.com/images/I/51LSGboC5-L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQCQ2VJN?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CZ6X9T8M",
-      "title": "施術ミスを認めない美容師にブチ切れた話 ぼめそのエッセイ漫画集",
-      "author": "ぼめそ",
-      "image": "https://m.media-amazon.com/images/I/412n3Jd9jfL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZ6X9T8M?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTMHV4MS",
-      "title": "お隣さんの騒音がすごい どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51iU1UtoS3L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTMHV4MS?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
     {
       "asin": "B0CLHWWKYK",
       "title": "可愛い子詰め: 塩対応の子の弱み握った 可愛い娘詰め",
@@ -36,6 +9,24 @@
       "image": "https://m.media-amazon.com/images/I/513FEK2hU4L._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CLHWWKYK?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "少年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTTGCNHY",
+      "title": "省エネ事務員しょう子ちゃん7",
+      "author": "すあま",
+      "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSWSPS2X",
+      "title": "私を好きすぎる義父から逃げた話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51W0gLsmdJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSWSPS2X?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
       "source": "recommended"
     },
     {
@@ -48,39 +39,48 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CKYM5C6C",
-      "title": "バイト先の先輩 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41cYeB5QcAL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKYM5C6C?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR7VBZY2",
-      "title": "私の彼氏は「ごめん」を言わない どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/51fQZXJ5IsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR7VBZY2?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CMJ6X4CP",
-      "title": "デート先は義実家 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/4104DqQwFcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CMJ6X4CP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
       "asin": "B0CJRCJ2Z3",
       "title": "分娩室乱入事件【1】",
       "author": "Ai",
       "image": "https://m.media-amazon.com/images/I/41gYUpXOIKL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CJRCJ2Z3?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSQKCB6L",
+      "title": "うちの夫が育児をしない どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51klv+8X+QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSQKCB6L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CR1MY98W",
+      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CJTX34M7",
+      "title": "分娩室乱入事件【4】",
+      "author": "Ai",
+      "image": "https://m.media-amazon.com/images/I/41g7-sS9r6L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJTX34M7?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B09KB5NYYT",
+      "title": "つよくてニューゲームなラブコメ1 キッズのラブコメ",
+      "author": "屋乃啓人",
+      "image": "https://m.media-amazon.com/images/I/51g6EiOOiCL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B09KB5NYYT?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "少年",
       "source": "recommended"
     }
   ]
