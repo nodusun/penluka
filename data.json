@@ -1,87 +1,15 @@
 {
-  "generated_at": "2026-09-03T23:07:53.082337",
-  "count": 9,
+  "generated_at": "2026-09-04T22:54:58.240635",
+  "count": 1,
   "cards": [
     {
-      "asin": "B0CVF1M7W2",
-      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0H6ZN36D5",
+      "title": "全部私に丸投げ家族④",
+      "author": "土井真希",
+      "image": "https://m.media-amazon.com/images/I/51KGG-GGkHL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0H6ZN36D5?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQ271P4M",
-      "title": "気になる彼の元カノ 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41QSR6sF7kL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQ271P4M?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR2VJJ8D",
-      "title": "ぜんぶ人任せな夫 みんなの妊活・妊娠体験談",
-      "author": "海原こうめ",
-      "image": "https://m.media-amazon.com/images/I/41SvdDqFzbL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR2VJJ8D?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CVFQZHBH",
-      "title": "平凡な私が超絶イケメンに告白されるまでの270日間【1】 りず漫画集",
-      "author": "りず",
-      "image": "https://m.media-amazon.com/images/I/51RPGpMGK4L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CVFQZHBH?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CR1MY98W",
-      "title": "セクハラが当たり前な会社の話 どこかの誰かの体験談マンガ",
-      "author": "はむら芥",
-      "image": "https://m.media-amazon.com/images/I/510+VBG-XsL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR1MY98W?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQXH39QF",
-      "title": "夫が連れてきた謎のママ友 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41bYbJMLLJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQXH39QF?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTTGCNHY",
-      "title": "省エネ事務員しょう子ちゃん7",
-      "author": "すあま",
-      "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKP885R9",
-      "title": "不倫相手が大暴れ 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41-xAWGP+1L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKP885R9?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CP4L73ZZ",
-      "title": "つよくてニューゲームなラブコメ9 キッズのラブコメ",
-      "author": "屋乃啓人",
-      "image": "https://m.media-amazon.com/images/I/51S3tlye7pL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CP4L73ZZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
+      "source": "women"
     }
   ]
 }
