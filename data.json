@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-09-24T23:48:35.179066",
-  "count": 1,
+  "generated_at": "2026-09-25T23:54:27.426524",
+  "count": 9,
   "cards": [
+    {
+      "asin": "B0CSX7H16X",
+      "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41r-wXoFBFL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSX7H16X?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPS6WTXQ",
+      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CW1CB1TM",
+      "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/415EViaRuRL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW1CB1TM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKXNLYFY",
+      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSQKCB6L",
+      "title": "うちの夫が育児をしない どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51klv+8X+QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSQKCB6L?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CT82BZMZ",
+      "title": "猫を飼えなくなったからわが家に連れてきたママ: 前編 あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41xpSWjCMEL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CT82BZMZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
     {
       "asin": "B0H6ZN36D5",
       "title": "全部私に丸投げ家族④",
@@ -10,6 +64,24 @@
       "url": "https://www.amazon.co.jp/dp/B0H6ZN36D5?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
+    },
+    {
+      "asin": "B0CPV1MBXG",
+      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPXR2BGT",
+      "title": "【3】店員さんが怖い！声をかけられたくない「私」が服を買うまでの話 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Y5v1P4UbL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPXR2BGT?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
     }
   ]
 }
