@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-09-25T23:54:27.426524",
+  "generated_at": "2026-09-26T23:26:59.316303",
   "count": 9,
   "cards": [
+    {
+      "asin": "B0CPV1MBXG",
+      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
     {
       "asin": "B0CSX7H16X",
       "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
@@ -12,30 +21,21 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CPS6WTXQ",
-      "title": "【2】販売員1年目。これが業界の『リアル』だ！ 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41Bx3Jt-3ZL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPS6WTXQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CW1CB1TM",
-      "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
-      "author": "あやかず",
-      "image": "https://m.media-amazon.com/images/I/415EViaRuRL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1CB1TM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CKXNLYFY",
-      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
-      "author": "海原こうめ",
-      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CNG9G7WB",
+      "title": "彼と私の現金ボックス 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41LbD5uTPJL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNG9G7WB?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQGRYS4T",
+      "title": "美人な幼なじみと縁を切った話 どこかの誰かの体験談マンガ",
+      "author": "はむら芥",
+      "image": "https://m.media-amazon.com/images/I/51uksG4TOvL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQGRYS4T?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
       "source": "recommended"
     },
     {
@@ -48,13 +48,31 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CT82BZMZ",
-      "title": "猫を飼えなくなったからわが家に連れてきたママ: 前編 あやかずランドのいろんなお話短編集",
-      "author": "あやかず",
-      "image": "https://m.media-amazon.com/images/I/41xpSWjCMEL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CT82BZMZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CMD8MHPZ",
+      "title": "半年で偏差値48から80にあげた話+インターン編: 人間まおの友人、鈴田エピソード 人間まおが描いたみんなの体験記",
+      "author": "人間まお",
+      "image": "https://m.media-amazon.com/images/I/51IfLjFwdhL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMD8MHPZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CNP9YBF8",
+      "title": "私の彼氏に恋するおば様 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/51pJMfTxzYL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNP9YBF8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
+    },
+    {
+      "asin": "B0HJYCPQXM",
+      "title": "家族のために高卒を選んだ結果 葱田たまこオリジナル漫画",
+      "author": "葱田たまこ",
+      "image": "https://m.media-amazon.com/images/I/41H8BICtK5L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0HJYCPQXM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     },
     {
       "asin": "B0H6ZN36D5",
@@ -64,24 +82,6 @@
       "url": "https://www.amazon.co.jp/dp/B0H6ZN36D5?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "women"
-    },
-    {
-      "asin": "B0CPV1MBXG",
-      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CPXR2BGT",
-      "title": "【3】店員さんが怖い！声をかけられたくない「私」が服を買うまでの話 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41Y5v1P4UbL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPXR2BGT?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
     }
   ]
 }
