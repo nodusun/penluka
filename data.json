@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-10-03T00:18:44.579929",
+  "generated_at": "2026-10-03T23:40:43.578748",
   "count": 4,
   "cards": [
-    {
-      "asin": "B0CKXNLYFY",
-      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
-      "author": "海原こうめ",
-      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
     {
       "asin": "B0CW1CB1TM",
       "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
@@ -21,20 +12,29 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CT82BZMZ",
-      "title": "猫を飼えなくなったからわが家に連れてきたママ: 前編 あやかずランドのいろんなお話短編集",
-      "author": "あやかず",
-      "image": "https://m.media-amazon.com/images/I/41xpSWjCMEL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CT82BZMZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "recommended"
-    },
-    {
       "asin": "B0CSX7H16X",
       "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
       "author": "あやかず",
       "image": "https://m.media-amazon.com/images/I/41r-wXoFBFL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CSX7H16X?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKXNLYFY",
+      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CT82BZMZ",
+      "title": "猫を飼えなくなったからわが家に連れてきたママ: 前編 あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41xpSWjCMEL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CT82BZMZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "女性",
       "source": "recommended"
     }
