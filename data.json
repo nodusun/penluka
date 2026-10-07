@@ -1,5 +1,87 @@
 {
-  "generated_at": "2026-10-06T01:41:58.155826",
-  "count": 0,
-  "cards": []
+  "generated_at": "2026-10-07T00:30:45.248680",
+  "count": 9,
+  "cards": [
+    {
+      "asin": "B0CJ3GHPGV",
+      "title": "第18巻「グレーゾーン編②」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/4172zh1B2zL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJ3GHPGV?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSX7H16X",
+      "title": "面接官がありえない！ あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/41r-wXoFBFL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSX7H16X?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CW1KN118",
+      "title": "第43巻「オンライン編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31ZBoaIaYML._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW1KN118?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CMP44VMR",
+      "title": "第24巻「ダウン症のプリンセス編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31BuX6OltpL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMP44VMR?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CW1CB1TM",
+      "title": "ひとりぐらし: 楽しいだけじゃない、こわい時もある あやかずランドのいろんなお話短編集",
+      "author": "あやかず",
+      "image": "https://m.media-amazon.com/images/I/415EViaRuRL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW1CB1TM?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CXJS736H",
+      "title": "第42巻「抑圧された妖精編④」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31OV8trh72L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CXJS736H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPXR2BGT",
+      "title": "【3】店員さんが怖い！声をかけられたくない「私」が服を買うまでの話 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Y5v1P4UbL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPXR2BGT?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKXNLYFY",
+      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CN4JJNZ8",
+      "title": "兄の連れて来た婚約者は…【3】 フォロワーさんのスカッと体験談",
+      "author": "Ai",
+      "image": "https://m.media-amazon.com/images/I/41lumKLUjnL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CN4JJNZ8?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    }
+  ]
 }
