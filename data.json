@@ -1,13 +1,76 @@
 {
-  "generated_at": "2026-10-15T23:36:33.494785",
-  "count": 2,
+  "generated_at": "2026-10-16T23:22:16.858795",
+  "count": 9,
   "cards": [
+    {
+      "asin": "B0CMP44VMR",
+      "title": "第24巻「ダウン症のプリンセス編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31BuX6OltpL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CMP44VMR?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQSQQS3G",
+      "title": "第31巻「無限癇癪編④」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31Id4f6IqZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQSQQS3G?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CHJXW61C",
+      "title": "第17巻「グレーゾーン編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/411uX4CZynL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CHJXW61C?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CP93KDWH",
+      "title": "第28巻「無限癇癪編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/318de7DJ8QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CP93KDWH?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CXJS736H",
+      "title": "第42巻「抑圧された妖精編④」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31OV8trh72L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CXJS736H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSSQQCVG",
+      "title": "第35巻「モンスター編④」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31d2GOMqatL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSSQQCVG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
     {
       "asin": "B0CKYKHGL9",
       "title": "疎遠だった友人と再会したらしんどかった話 みんなの妊活・妊娠体験談",
       "author": "海原こうめ",
       "image": "https://m.media-amazon.com/images/I/51II2YYTXuL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CKYKHGL9?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQK52VMG",
+      "title": "親に彼氏と別れさせられた話 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41PrSZOKqKL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQK52VMG?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
       "source": "recommended"
     },
