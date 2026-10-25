@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-10-24T23:01:32.994145",
-  "count": 4,
+  "generated_at": "2026-10-25T23:06:17.951629",
+  "count": 9,
   "cards": [
-    {
-      "asin": "B0CJBMJLJY",
-      "title": "トーコちゃん 創作！世にも奇妙ななんかの話",
-      "author": "ババレオ",
-      "image": "https://m.media-amazon.com/images/I/41OxhltITZL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJBMJLJY?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
     {
       "asin": "B0CHPL3975",
       "title": "1巻:バ美肉おじいちゃんの誕生",
@@ -21,22 +12,76 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CQK52VMG",
-      "title": "親に彼氏と別れさせられた話 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41PrSZOKqKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQK52VMG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CJBMJLJY",
+      "title": "トーコちゃん 創作！世にも奇妙ななんかの話",
+      "author": "ババレオ",
+      "image": "https://m.media-amazon.com/images/I/41OxhltITZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CJBMJLJY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQS9FD3Q",
+      "title": "バ美肉おじいちゃんの美声",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/51FrUNLn10L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQS9FD3Q?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTTGCNHY",
+      "title": "省エネ事務員しょう子ちゃん7",
+      "author": "すあま",
+      "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
       "source": "recommended"
     },
     {
-      "asin": "B0HDSX5LTP",
-      "title": "私がダラ嫁ですって⁉︎④",
-      "author": "土井真希",
-      "image": "https://m.media-amazon.com/images/I/51c53M2VKpL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0HDSX5LTP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
+      "asin": "B0CNZCBZFW",
+      "title": "犯人の目的は？④ 犯人の目的は?",
+      "author": "かとうみちか",
+      "image": "https://m.media-amazon.com/images/I/41kWHq1a1mL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNZCBZFW?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CL34GVNG",
+      "title": "バ美肉おじいちゃんの受難",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CNZ9YSHX",
+      "title": "犯人の目的は？③ 犯人の目的は?",
+      "author": "かとうみちか",
+      "image": "https://m.media-amazon.com/images/I/41L3RdGUBfL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNZ9YSHX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CKXNLYFY",
+      "title": "欲しいのは男の子ー子どもの性別にこだわる夫ー みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41qYu+00OcL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CKXNLYFY?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CT599KQ4",
+      "title": "夫が気になるのはお金だけ！？ みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41InHJ2BHyL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CT599KQ4?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
     }
   ]
 }
