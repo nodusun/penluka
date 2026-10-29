@@ -1,41 +1,32 @@
 {
-  "generated_at": "2026-10-28T00:21:23.247750",
+  "generated_at": "2026-10-29T00:41:12.569696",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CHPL3975",
-      "title": "1巻:バ美肉おじいちゃんの誕生",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/516lBZQaG6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CHPL3975?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CL34GVNG",
-      "title": "バ美肉おじいちゃんの受難",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/512qGFaPt6L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CL34GVNG?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CW1JY522",
-      "title": "第48巻「崩壊カルテット編①」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/41h82ld4BHL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1JY522?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CNG9G7WB",
-      "title": "彼と私の現金ボックス 読者さんの恋愛・浮気体験談",
+      "asin": "B0CQK52VMG",
+      "title": "親に彼氏と別れさせられた話 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41LbD5uTPJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNG9G7WB?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41PrSZOKqKL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQK52VMG?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CNNN5J8H",
+      "title": "バ美肉おじいちゃんの変身",
+      "author": "魔木",
+      "image": "https://m.media-amazon.com/images/I/51d23Bmc+iL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CNNN5J8H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQCNWKJJ",
+      "title": "第30巻「無限癇癪編③」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/3187-hYlr4L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQCNWKJJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
@@ -44,6 +35,24 @@
       "author": "ゆり子",
       "image": "https://m.media-amazon.com/images/I/4172zh1B2zL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CJ3GHPGV?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CT599KQ4",
+      "title": "夫が気になるのはお金だけ！？ みんなの妊活・妊娠体験談",
+      "author": "海原こうめ",
+      "image": "https://m.media-amazon.com/images/I/41InHJ2BHyL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CT599KQ4?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQSQQS3G",
+      "title": "第31巻「無限癇癪編④」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/31Id4f6IqZL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQSQQS3G?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
@@ -57,29 +66,20 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CNNN5J8H",
-      "title": "バ美肉おじいちゃんの変身",
-      "author": "魔木",
-      "image": "https://m.media-amazon.com/images/I/51d23Bmc+iL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNNN5J8H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CHJXW61C",
+      "title": "第17巻「グレーゾーン編①」 エスプレッソ・コーラ",
+      "author": "ゆり子",
+      "image": "https://m.media-amazon.com/images/I/411uX4CZynL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CHJXW61C?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CJNCVF2F",
-      "title": "第19巻「グレーゾーン編③」 エスプレッソ・コーラ",
+      "asin": "B0CP93KDWH",
+      "title": "第28巻「無限癇癪編①」 エスプレッソ・コーラ",
       "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/41FG7Wbl0xL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJNCVF2F?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CN2S3YR1",
-      "title": "第25巻「ダウン症のプリンセス編②」 エスプレッソ・コーラ",
-      "author": "ゆり子",
-      "image": "https://m.media-amazon.com/images/I/31JbtftSEQL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CN2S3YR1?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/318de7DJ8QL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CP93KDWH?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     }
