@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-11-16T00:52:54.618683",
+  "generated_at": "2026-11-17T03:33:39.081757",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CNGQZV6G",
-      "title": "第26巻「ダウン症のプリンセス編③」 エスプレッソ・コーラ",
+      "asin": "B0CS6NMVNS",
+      "title": "第34巻「モンスター編③」 エスプレッソ・コーラ",
       "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31wnVqkRjlL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNGQZV6G?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/31lcXF5bnYL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CS6NMVNS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CXJS736H",
+      "title": "第42巻「抑圧された妖精編④」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31OV8trh72L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CXJS736H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CW7X5GFK",
+      "title": "第41巻「抑圧された妖精編③」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31lmY5pco2L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW7X5GFK?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     },
@@ -21,65 +39,47 @@
       "source": "recommended"
     },
     {
-      "asin": "B0CNK91MD2",
-      "title": "ネットや漫画に思ってるコト 曽山一寿のそやまんが集",
-      "author": "曽山一寿",
-      "image": "https://m.media-amazon.com/images/I/51JJjbIoCvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CNK91MD2?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "少年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CLDDKT7R",
-      "title": "第22巻「不登校・LD編③」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31qvLMDTnvL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CLDDKT7R?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CS6NMVNS",
-      "title": "第34巻「モンスター編③」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31lcXF5bnYL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CS6NMVNS?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQCNWKJJ",
-      "title": "第30巻「無限癇癪編③」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/3187-hYlr4L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQCNWKJJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQHKKKXG",
-      "title": "まいみ！",
-      "author": "神谷もち",
-      "image": "https://m.media-amazon.com/images/I/41UAfZW5WVL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQHKKKXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CPYLCZT8",
+      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
       "source": "recommended"
     },
     {
-      "asin": "B0HQH5R6V2",
-      "title": "君だけが18歳のまま【5】",
-      "author": "るびー",
-      "image": "https://m.media-amazon.com/images/I/51bUDnTKcLL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0HQH5R6V2?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
+      "asin": "B0CYV9GQGX",
+      "title": "第44巻「オンライン編②」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31aCOkXOj9L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CYV9GQGX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
     },
     {
-      "asin": "B0CR5STLPJ",
-      "title": "第32巻「モンスター編①」 エスプレッソ・コーラ",
+      "asin": "B0CVRCR5DZ",
+      "title": "第39巻「抑圧された妖精編①」 エスプレッソ・コーラ",
       "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31bFLB9OIjL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CR5STLPJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41ns6akJRjL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVRCR5DZ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0D1KFR7VS",
+      "title": "第47巻「オンライン編⑤」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31SqC1YdUgL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D1KFR7VS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CVBK9ZKL",
+      "title": "第38巻「ヴォイス編」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31szjCyJCDL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVBK9ZKL?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
       "source": "recommended"
     }
