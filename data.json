@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-11-26T03:26:09.016389",
+  "generated_at": "2026-11-27T03:32:57.808113",
   "count": 9,
   "cards": [
-    {
-      "asin": "B0CZXMTQHM",
-      "title": "第46巻「オンライン編④」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31MyVki1KcL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CZXMTQHM?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CW1L78ZP",
-      "title": "第40巻「抑圧された妖精編②」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31ObhoRvkiL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CW1L78ZP?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
     {
       "asin": "B0CPV1MBXG",
       "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
@@ -28,6 +10,60 @@
       "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
       "source": "recommended"
+    },
+    {
+      "asin": "B0CQPD5F44",
+      "title": "愛が強すぎる妻と塩対応の夫: 真船佳奈夫婦漫画傑作選 真船佳奈まんがまとめ本",
+      "author": "真船佳奈",
+      "image": "https://m.media-amazon.com/images/I/41Oh9Ae-WxL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQPD5F44?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQK52VMG",
+      "title": "親に彼氏と別れさせられた話 読者さんの恋愛・浮気体験談",
+      "author": "3cha",
+      "image": "https://m.media-amazon.com/images/I/41PrSZOKqKL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQK52VMG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CSTV2X2B",
+      "title": "立ち飲み屋のおじさんが教えてくれたこと 立ち飲み屋のおじさんの一言",
+      "author": "おたみ",
+      "image": "https://m.media-amazon.com/images/I/41s74RcBxHL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CSTV2X2B?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CPXR2BGT",
+      "title": "【3】店員さんが怖い！声をかけられたくない「私」が服を買うまでの話 『アパレる』まとめ集",
+      "author": "ぼのこ",
+      "image": "https://m.media-amazon.com/images/I/41Y5v1P4UbL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CPXR2BGT?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0HS2HDFRN",
+      "title": "家族より友達を優先した夫の末路～外面がいい夫の本性～（2） 尾持トモ 傑作漫画劇場",
+      "author": "尾持トモ",
+      "image": "https://m.media-amazon.com/images/I/51lh7pMDK+L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0HS2HDFRN?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
+    },
+    {
+      "asin": "B0HS2BFJWQ",
+      "title": "家族より友達を優先した夫の末路～外面がいい夫の本性～（4） 尾持トモ 傑作漫画劇場",
+      "author": "尾持トモ",
+      "image": "https://m.media-amazon.com/images/I/51ZRcXp0a7L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0HS2BFJWQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "女性",
+      "source": "women"
     },
     {
       "asin": "B0CPYLCZT8",
@@ -45,42 +81,6 @@
       "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CYV9GQGX",
-      "title": "第44巻「オンライン編②」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/31aCOkXOj9L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CYV9GQGX?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CJ973KD9",
-      "title": "18歳で妊娠したわたしが４年後に夫を捨てるまで おにぎり2525のまとめマンガ",
-      "author": "おにぎり2525",
-      "image": "https://m.media-amazon.com/images/I/4146A9CZmaL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CJ973KD9?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CT599KQ4",
-      "title": "夫が気になるのはお金だけ！？ みんなの妊活・妊娠体験談",
-      "author": "海原こうめ",
-      "image": "https://m.media-amazon.com/images/I/41InHJ2BHyL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CT599KQ4?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CQCNWKJJ",
-      "title": "第30巻「無限癇癪編③」 エスプレッソ・コーラ",
-      "author": "ほっかむりゆり子",
-      "image": "https://m.media-amazon.com/images/I/3187-hYlr4L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQCNWKJJ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "青年",
       "source": "recommended"
     }
   ]
