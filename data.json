@@ -1,32 +1,77 @@
 {
-  "generated_at": "2026-11-27T03:32:57.808113",
+  "generated_at": "2026-11-28T03:10:38.695653",
   "count": 9,
   "cards": [
     {
-      "asin": "B0CPV1MBXG",
-      "title": "【1】主人公「春子」が販売員になるまでの話 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41P5+nQqSJL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPV1MBXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "asin": "B0CH33DHCP",
+      "title": "第16巻「マウンティング編⑤」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/41Gw8osaLhL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CH33DHCP?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CYV9GQGX",
+      "title": "第44巻「オンライン編②」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31aCOkXOj9L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CYV9GQGX?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CQHKKKXG",
+      "title": "まいみ！",
+      "author": "神谷もち",
+      "image": "https://m.media-amazon.com/images/I/41UAfZW5WVL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CQHKKKXG?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
       "source": "recommended"
     },
     {
-      "asin": "B0CQPD5F44",
-      "title": "愛が強すぎる妻と塩対応の夫: 真船佳奈夫婦漫画傑作選 真船佳奈まんがまとめ本",
-      "author": "真船佳奈",
-      "image": "https://m.media-amazon.com/images/I/41Oh9Ae-WxL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQPD5F44?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
+      "asin": "B0D1KFR7VS",
+      "title": "第47巻「オンライン編⑤」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31SqC1YdUgL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0D1KFR7VS?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
-      "asin": "B0CQK52VMG",
-      "title": "親に彼氏と別れさせられた話 読者さんの恋愛・浮気体験談",
+      "asin": "B0CVF1M7W2",
+      "title": "生き霊が私を探している 読者さんの恋愛・浮気体験談",
       "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41PrSZOKqKL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CQK52VMG?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "image": "https://m.media-amazon.com/images/I/41NQIzbdhML._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CVF1M7W2?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "インディーズ",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CTHSP3S1",
+      "title": "第45巻「オンライン編③」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31MazLrBSVL._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CTHSP3S1?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CXJS736H",
+      "title": "第42巻「抑圧された妖精編④」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31OV8trh72L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CXJS736H?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
+      "source": "recommended"
+    },
+    {
+      "asin": "B0CW7X5GFK",
+      "title": "第41巻「抑圧された妖精編③」 エスプレッソ・コーラ",
+      "author": "ほっかむりゆり子",
+      "image": "https://m.media-amazon.com/images/I/31lmY5pco2L._SL500_.jpg",
+      "url": "https://www.amazon.co.jp/dp/B0CW7X5GFK?tag=penluka-22&linkCode=osi&th=1&psc=1",
+      "genre": "青年",
       "source": "recommended"
     },
     {
@@ -36,51 +81,6 @@
       "image": "https://m.media-amazon.com/images/I/41s74RcBxHL._SL500_.jpg",
       "url": "https://www.amazon.co.jp/dp/B0CSTV2X2B?tag=penluka-22&linkCode=osi&th=1&psc=1",
       "genre": "青年",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CPXR2BGT",
-      "title": "【3】店員さんが怖い！声をかけられたくない「私」が服を買うまでの話 『アパレる』まとめ集",
-      "author": "ぼのこ",
-      "image": "https://m.media-amazon.com/images/I/41Y5v1P4UbL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPXR2BGT?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0HS2HDFRN",
-      "title": "家族より友達を優先した夫の末路～外面がいい夫の本性～（2） 尾持トモ 傑作漫画劇場",
-      "author": "尾持トモ",
-      "image": "https://m.media-amazon.com/images/I/51lh7pMDK+L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0HS2HDFRN?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0HS2BFJWQ",
-      "title": "家族より友達を優先した夫の末路～外面がいい夫の本性～（4） 尾持トモ 傑作漫画劇場",
-      "author": "尾持トモ",
-      "image": "https://m.media-amazon.com/images/I/51ZRcXp0a7L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0HS2BFJWQ?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "女性",
-      "source": "women"
-    },
-    {
-      "asin": "B0CPYLCZT8",
-      "title": "安心して結婚したはずなのに 読者さんの恋愛・浮気体験談",
-      "author": "3cha",
-      "image": "https://m.media-amazon.com/images/I/41lPddJ7l1L._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CPYLCZT8?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
-      "source": "recommended"
-    },
-    {
-      "asin": "B0CTTGCNHY",
-      "title": "省エネ事務員しょう子ちゃん7",
-      "author": "すあま",
-      "image": "https://m.media-amazon.com/images/I/41tXS+9M7oL._SL500_.jpg",
-      "url": "https://www.amazon.co.jp/dp/B0CTTGCNHY?tag=penluka-22&linkCode=osi&th=1&psc=1",
-      "genre": "インディーズ",
       "source": "recommended"
     }
   ]
